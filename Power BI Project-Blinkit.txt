@@ -1,0 +1,36 @@
+Steps in Project - Power BI
+
+Requirement Gathering / Business Requirement
+Data Walkthrough 
+Data Connections
+Data Cleaning
+Data Modeling 
+Data Processing
+DAX Calculation
+Dashboard Lay Outing 
+Chart Development and Formating
+Dashboard/Reports Development
+Insight Generation 
+
+Business Requirement
+
+To conduct a comprehensive analysis of Blinkit Sales Performance, customer satisfaction, and
+inventory distribution to identify key insights and opportunity for optimaztion using KPIs
+and visualization in Power BI
+
+KPIs Requirement
+
+Total Sales: - The overall revenue generated from all items sold.
+Average Sales: - The average revenue per sale.
+Numbers of Items: - The total count of different items sold.
+Average Rating: - The average customer ratings for items sold.
+
+
+
+
+
+
+
+
+
+
